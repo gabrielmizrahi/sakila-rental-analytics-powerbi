@@ -101,13 +101,13 @@ All measures live under table **MSR**, organized into folders:
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/main-dashboard.png)
+![Main Dashboard](main-dashboard.png)
 
 ### Film Dashboard
-![Film Dashboard](screenshots/film-dashboard.png)
+![Film Dashboard](film-dashboard.png)
 
 ### Highest Grossing Movies View
-![Highest Grossing Movies](screenshots/highest-grossing-movies.png)
+![Highest Grossing Movies](highest-grossing-movies.png)
 
 ---
 
